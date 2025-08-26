@@ -1,0 +1,8 @@
+ALOS2 L-band 
+San Francisco
+time1: 20150324
+time2: 20180812
+with a spatial resolution of 2.86 m in azimuth and 3.20 m in range is used.
+
+
+

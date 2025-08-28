@@ -37,3 +37,7 @@ If you use this code for your research, please cite our paper. Thank you!
   year={2025},
   publisher={Elsevier}
 }
+
+## Running
+
+Unzip the Zip files (QPBO, LSA) and run the Code/GSEO-main/demo_GSEO_Ablation.m file (tested in Matlab 2017a)! 
